@@ -1,0 +1,12 @@
+name,type,vegetation,area_sq_mi,cell_area_sq_mi,grid_rows,grid_cols,burn_rate,initial_tree_count,burn_duration
+Daintree Rainforest,Tropical Rainforest,Broadleaf,463,100,3,3,0.2,40000,1
+Black Forest,Temperate,Coniferous,2320,100,5,5,0.7,500000,3
+Tongass National Forest,Temperate Rainforest,Mixed Coniferous,26096,100,16,16,0.4,450000,3
+Great Western Woodlands,Woodland,Eucalyptus,61776,100,25,25,0.8,800000,4
+Chocó Rainforest,Tropical Rainforest,Broadleaf,63800,100,25,25,0.3,700000,2
+Valdivian Temperate Rainforest,Temperate Rainforest,Mixed,95700,100,31,31,0.45,900000,2
+Southeast Asian Rainforests,Tropical Rainforest,Broadleaf,127000,100,36,36,0.25,1200000,2
+Amazon Rainforest,Tropical Rainforest,Broadleaf,2100000,100,145,145,0.4,5000000,2
+Canadian Boreal Forest,Boreal,Mixed Coniferous,2116000,100,146,146,0.8,4200000,4
+Congo Rainforest,Tropical Rainforest,Broadleaf,772200,100,88,88,0.3,2500000,2
+Siberian Taiga,Boreal,Coniferous,3863000,100,197,197,0.85,8500000,5
